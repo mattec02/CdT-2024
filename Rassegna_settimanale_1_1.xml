@@ -89,99 +89,99 @@
   <facsimile>
 
     <!--Articolo 1-->
-    <surface xml:id="p9" n="1"> <!--pagina 9-->
+    <surface xml:id="p9" n="1" corresp="#art1_pag1"> <!--pagina 9-->
         <graphic url='Vol1-1878-1-S1-F1_1.png' width='867.857142px' height='1299.857142px' />
-        <zone ulx="173" uly="40" lrx="409" lry="84" xml:id="p9_intestazione"/>
-        <zone ulx="42" uly="83" lrx="436" lry="137"  xml:id="p9_1"/>
-        <zone ulx="44" uly="139" lrx="434" lry="256" xml:id="p9_2"/>
-        <zone ulx="47" uly="258" lrx="435" lry="290" xml:id="p9_3"/>
-        <zone ulx="44" uly="291" lrx="435" lry="493" xml:id="p9_4"/>
-        <zone ulx="44" uly="492" lrx="435" lry="576" xml:id="p9_5"/>
-        <zone ulx="46" uly="576" lrx="434" lry="625" xml:id="p9_6"/>
-        <zone ulx="46" uly="625" lrx="437" lry="1162" xml:id="p9_7"/>
+        <zone ulx="173" uly="40" lrx="409" lry="84" xml:id="p9_intestazione" corresp="#art1_intestazione"/>
+        <zone ulx="42" uly="83" lrx="436" lry="137"  xml:id="p9_1" corresp="#art1_par1"/>
+        <zone ulx="44" uly="139" lrx="434" lry="256" xml:id="p9_2" corresp="#art1_par2"/>
+        <zone ulx="47" uly="258" lrx="435" lry="290" xml:id="p9_3" corresp="#art1_par3"/>
+        <zone ulx="44" uly="291" lrx="435" lry="493" xml:id="p9_4" corresp="#art1_par4"/>
+        <zone ulx="44" uly="492" lrx="435" lry="576" xml:id="p9_5" corresp="#art1_par5"/>
+        <zone ulx="46" uly="576" lrx="434" lry="625" xml:id="p9_6" corresp="#art1_par6"/>
+        <zone ulx="46" uly="625" lrx="437" lry="1162" xml:id="p9_7" corresp="#art1_par7"/>
         <!--COLUMN BREAK-->
-        <zone ulx="448" uly="38" lrx="838" lry="359" xml:id="p9_7_cb"/>
-        <zone ulx="448" uly="371" lrx="840" lry="811" xml:id="p9_8"/>
-        <zone ulx="448" uly="812" lrx="837" lry="927" xml:id="p9_9"/>
-        <zone ulx="448" uly="927" lrx="840" lry="1063" xml:id="p9_10"/>
-        <zone ulx="450" uly="1064" lrx="837" lry="1164" xml:id="p9_11"/>
+        <zone ulx="448" uly="38" lrx="838" lry="359" xml:id="p9_7_cb" corresp="#art1_par7_cb"/>
+        <zone ulx="448" uly="371" lrx="840" lry="811" xml:id="p9_8" corresp="#art1_par8"/>
+        <zone ulx="448" uly="812" lrx="837" lry="927" xml:id="p9_9" corresp="#art1_par9"/>
+        <zone ulx="448" uly="927" lrx="840" lry="1063" xml:id="p9_10" corresp="#art1_par10"/>
+        <zone ulx="450" uly="1064" lrx="837" lry="1164" xml:id="p9_11" corresp="#art1_par11"/>
     </surface>
 
-    <surface xml:id="p10" n="2"> <!--pagina 10-->
+    <surface xml:id="p10" n="2" corresp="#art1_pag2"> <!--pagina 10-->
         <graphic url='Vol1-1878-1-S1-F1_2.png' width='877.857142px' height='1299.857142px' />
-        <zone ulx="37" uly="75" lrx="434" lry="294" xml:id="p10_11_pb"/>
+        <zone ulx="37" uly="75" lrx="434" lry="294" xml:id="p10_11_pb" corresp="#art1_par11_pb"/>
     </surface>
 
     <!--Articolo 2-->
-    <surface xml:id="p11" n="3"> <!--pagina 11-->
+    <surface xml:id="p11" n="3" corresp="#art2_pag1"> <!--pagina 11-->
         <graphic url='Vol1-1878-1-S1-F1_3.png' width='860.857142px' height='1299.857142px' />
-        <zone ulx="478" uly="103" lrx="796" lry="119" xml:id="p11_intestazione"/>
-        <zone ulx="550" uly="127" lrx="727" lry="182" xml:id="p11_1"/>
-        <zone ulx="514" uly="184" lrx="744" lry="462" xml:id="p11_2"/>
-        <zone ulx="456" uly="463" lrx="711" lry="482" xml:id="p11_3"/>
-        <zone ulx="578" uly="490" lrx="699" lry="546" xml:id="p11_4"/>
-        <zone ulx="455" uly="545" lrx="819" lry="1167" xml:id="p11_5"/>
-        <zone ulx="444" uly="1171" lrx="831" lry="1198" xml:id="p11_6"/>
-        <zone ulx="694" uly="1196" lrx="811" lry="1212" xml:id="p11_7"/>
+        <zone ulx="478" uly="103" lrx="796" lry="119" xml:id="p11_intestazione" corresp="#art2_intestazione"/>
+        <zone ulx="550" uly="127" lrx="727" lry="182" xml:id="p11_1" corresp="#art2_titolo_1"/>
+        <zone ulx="514" uly="184" lrx="744" lry="462" xml:id="p11_2" corresp="#art2_poesia1"/>
+        <zone ulx="456" uly="463" lrx="711" lry="482" xml:id="p11_3" corresp="#bibl_art2_1"/>
+        <zone ulx="578" uly="490" lrx="699" lry="546" xml:id="p11_4" corresp="#art2_titolo_2"/>
+        <zone ulx="455" uly="545" lrx="819" lry="1167" xml:id="p11_5" corresp="#art2_poesia2"/>
+        <zone ulx="444" uly="1171" lrx="831" lry="1198" xml:id="p11_6" corresp="#bibl_art2_2"/>
+        <zone ulx="694" uly="1196" lrx="811" lry="1212" xml:id="p11_7" corresp="#art2_firma"/>
     </surface>
 
     <!--Articolo 3-->
-    <surface xml:id="p12" n="4"> <!--pagina 12-->
+    <surface xml:id="p12" n="4" corresp="#art3_pag1"> <!--pagina 12-->
       <graphic url='Vol1-1878-1-S1-F1_4.png' width='904.285714px' height='1300.285714px' />
-        <zone ulx="195" uly="97" lrx="406" lry="137" xml:id="p12_intestazione"/>
-        <zone ulx="46" uly="142" lrx="445" lry="300" xml:id="p12_1"/>
-        <zone ulx="46" uly="300" lrx="445" lry="644" xml:id="p12_2"/>
-        <zone ulx="46" uly="644" lrx="445" lry="918" xml:id="p12_3"/>
-        <zone ulx="46" uly="918" lrx="444" lry="1230" xml:id="p12_4"/>
-        <zone ulx="67" uly="1229" lrx="443" lry="1246" xml:id="p12_5"/>
+        <zone ulx="195" uly="97" lrx="406" lry="137" xml:id="p12_intestazione" corresp="#art3_intestazione"/>
+        <zone ulx="46" uly="142" lrx="445" lry="300" xml:id="p12_1" corresp="#art3_par1"/>
+        <zone ulx="46" uly="300" lrx="445" lry="644" xml:id="p12_2" corresp="#art3_par2"/>
+        <zone ulx="46" uly="644" lrx="445" lry="918" xml:id="p12_3" corresp="#art3_par3"/>
+        <zone ulx="46" uly="918" lrx="444" lry="1230" xml:id="p12_4" corresp="#art3_par4"/>
+        <zone ulx="67" uly="1229" lrx="443" lry="1246" xml:id="p12_5" corresp="#art3_par5"/>
         <!--COLUMN BREAK-->
-        <zone ulx="456" uly="93" lrx="860" lry="195" xml:id="p12_5_cb"/>
-        <zone ulx="464" uly="196" lrx="860" lry="265" xml:id="p12_6"/>
-        <zone ulx="462" uly="264" lrx="860" lry="556" xml:id="p12_7"/>
-        <zone ulx="462" uly="557" lrx="861" lry="900" xml:id="p12_8"/>
-        <zone ulx="460" uly="900" lrx="856" lry="1226" xml:id="p12_9"/>
-        <zone ulx="479" uly="1227" lrx="855" lry="1246" xml:id="p12_10"/>
+        <zone ulx="456" uly="93" lrx="860" lry="195" xml:id="p12_5_cb" corresp="#art3_par5_cb"/>
+        <zone ulx="464" uly="196" lrx="860" lry="265" xml:id="p12_6" corresp="#art3_par6"/>
+        <zone ulx="462" uly="264" lrx="860" lry="556" xml:id="p12_7" corresp="#art3_par7"/>
+        <zone ulx="462" uly="557" lrx="861" lry="900" xml:id="p12_8" corresp="#art3_par8"/>
+        <zone ulx="460" uly="900" lrx="856" lry="1226" xml:id="p12_9" corresp="#art3_par9"/>
+        <zone ulx="479" uly="1227" lrx="855" lry="1246" xml:id="p12_10" corresp="#art3_par10"/>
     </surface>
 
-    <surface xml:id="p13" n="5"> <!--pagina 13-->
+    <surface xml:id="p13" n="5"  corresp="#art3_pag2"> <!--pagina 13-->
       <graphic url='Vol1-1878-1-S1-F1_5.png' width='884.285714px' height='1300.285714px' />
-        <zone ulx="50" uly="85" lrx="439" lry="284"  xml:id="p13_1"/>
-        <zone ulx="51" uly="286" lrx="444" lry="406" xml:id="p13_2"/>
-        <zone ulx="52" uly="406" lrx="445" lry="541" xml:id="p13_3"/>
-        <zone ulx="54" uly="541" lrx="446" lry="1047" xml:id="p13_4"/>
-        <zone ulx="53" uly="1048" lrx="446" lry="1215" xml:id="p13_5"/>
+        <zone ulx="50" uly="85" lrx="439" lry="284"  xml:id="p13_1" corresp="#art3_par10_cb"/>
+        <zone ulx="51" uly="286" lrx="444" lry="406" xml:id="p13_2" corresp="#art3_par11"/>
+        <zone ulx="52" uly="406" lrx="445" lry="541" xml:id="p13_3" corresp="#art3_par12"/>
+        <zone ulx="54" uly="541" lrx="446" lry="1047" xml:id="p13_4" corresp="#art3_par13"/>
+        <zone ulx="53" uly="1048" lrx="446" lry="1215" xml:id="p13_5" corresp="#art3_par14"/>
         <!--COLUMN BREAK-->
-        <zone ulx="454" uly="82" lrx="849" lry="133" xml:id="p13_5_cb"/>
-        <zone ulx="456" uly="133" lrx="853" lry="369" xml:id="p13_6"/>
+        <zone ulx="454" uly="82" lrx="849" lry="133" xml:id="p13_5_cb" corresp="#art3_par14_cb"/>
+        <zone ulx="456" uly="133" lrx="853" lry="369" xml:id="p13_6" corresp="#art3_par15"/>
     </surface>
 
     <!--Bibliografia-->
-    <surface xml:id="p13_bibl" n="6"> <!--pagina 13-->
+    <surface xml:id="p13_bibl" n="6" corresp="#biblio_pag1"> <!--pagina 13-->
       <graphic url='Vol1-1878-1-S1-F1_5.png' width='884.26087px' height='1300.26087px' />
-        <zone ulx="578" uly="386" lrx="728" lry="429" xml:id="p13_biblio_int"/>
-        <zone ulx="458" uly="432" lrx="855" lry="488" xml:id="p13_biblio_1"/> <!--Corazzini-->
-        <zone ulx="460" uly="489" lrx="853" lry="575"  xml:id="p13_biblio_2"/>
-        <zone ulx="461" uly="573" lrx="853" lry="861" xml:id="p13_biblio_3"/>
-        <zone ulx="461" uly="861" lrx="854" lry="1215" xml:id="p13_biblio_4"/>
+        <zone ulx="578" uly="386" lrx="728" lry="429" xml:id="p13_biblio_int" corresp="#biblio_intestazione"/>
+        <zone ulx="458" uly="432" lrx="855" lry="488" xml:id="p13_biblio_1" corresp="#Corazzini_bibliografia"/> <!--Corazzini-->
+        <zone ulx="460" uly="489" lrx="853" lry="575"  xml:id="p13_biblio_2" corresp="#biblio_par1"/>
+        <zone ulx="461" uly="573" lrx="853" lry="861" xml:id="p13_biblio_3" corresp="#biblio_par2"/>
+        <zone ulx="461" uly="861" lrx="854" lry="1215" xml:id="p13_biblio_4" corresp="#biblio_par3"/>
     </surface>
 
-    <surface xml:id="p14" n="7"> <!--pagina 14-->
+    <surface xml:id="p14" n="7"  corresp="#biblio_pag2"> <!--pagina 14-->
       <graphic url='Vol1-1878-1-S1-F1_6.png' width='901.26087px' height='1300.26087px' />
-        <zone ulx="56" uly="95" lrx="460" lry="418" xml:id="p14_biblio_1"/>
-        <zone ulx="57" uly="428" lrx="460" lry="462" xml:id="p14_biblio_2"/> <!--Rubieri-->
-        <zone ulx="58" uly="467" lrx="458" lry="777" xml:id="p14_biblio_3"/>
-        <zone ulx="59" uly="777" lrx="462" lry="1245" xml:id="p14_biblio_4"/>
+        <zone ulx="56" uly="95" lrx="460" lry="418" xml:id="p14_biblio_1" corresp="#biblio_par3_cb"/>
+        <zone ulx="57" uly="428" lrx="460" lry="462" xml:id="p14_biblio_2" corresp="#Rubieri_bibliografia"/> <!--Rubieri-->
+        <zone ulx="58" uly="467" lrx="458" lry="777" xml:id="p14_biblio_3" corresp="#biblio2_par1"/>
+        <zone ulx="59" uly="777" lrx="462" lry="1245" xml:id="p14_biblio_4" corresp="#biblio2_par2"/>
         <!--COLUMN BREAK-->
-        <zone ulx="471" uly="95" lrx="873" lry="365" xml:id="p14_biblio_4_cb"/>
-        <zone ulx="474" uly="365" lrx="875" lry="895" xml:id="p14_biblio_5"/>
+        <zone ulx="471" uly="95" lrx="873" lry="365" xml:id="p14_biblio_4_cb" corresp="#biblio2_par2_cb"/>
+        <zone ulx="474" uly="365" lrx="875" lry="895" xml:id="p14_biblio_5" corresp="#biblio2_par3"/>
     </surface>
 
     <!--Notizie-->
-    <surface xml:id="p16" n="8"> <!--pagina 16-->
-      <graphic url='Vol1-1878-1-S1-F1_7.png' width='903.285714px' height='1300.285714px' />
-        <zone ulx="73" uly="813" lrx="472" lry="1039" xml:id="p16_notizie_1"/>
+    <surface xml:id="p16" n="8" corresp="#notizie_pag1"> <!--pagina 16-->
+      <graphic url='Vol1-1878-1-S1-F1_7.png' width='903.285714px' height='1300.285714px'/>
+        <zone ulx="73" uly="813" lrx="472" lry="1039" xml:id="p16_notizie_1" corresp="#notizie_par1"/>
         <!--COLUMN BREAK-->
-        <zone ulx="482" uly="498" lrx="879" lry="666" xml:id="p16_notizie_2"/>
+        <zone ulx="482" uly="498" lrx="879" lry="666" xml:id="p16_notizie_2" corresp="#notizie_par2"/>
     </surface>
 
   </facsimile>
@@ -403,7 +403,7 @@
               <lb rend="align(center) case(allcaps)"/>Romanza Spagnuola.
               <lb rend="align(center) case(allcaps)"/>La Lavandaia di <placeName>San Giovanni</placeName>.
             </head>
-            <lg facs="#p11_2" corresp="#art2_pag1_c1">
+            <lg facs="#p11_2" corresp="#art2_pag1_c1" xml:id="art2_poesia1">
               <l>Mi levai per <placeName>san Giovanni</placeName></l>
               <l>Ch’era il sole per levar:</l>
               <l>Vidi, o madre, una fanciulla</l>
@@ -443,7 +443,7 @@
               <lb rend="align(center) case(allcaps)"/><persName type="fictional" role="protagonista" xml:id="Oluf">sir Oluf</persName>.
             </head>
 
-            <lg facs="#p11_5" corresp="#art2_pag1_c1">
+            <lg facs="#p11_5" corresp="#art2_pag1_c1" xml:id="art2_poesia2">
               <l>Cavalca <ref target="#Oluf">sir Oluf</ref> la notte lontano</l>
               <l>Per fare gl’inviti, chè è sposo diman.</l>
               <l>Or danzano gli elfi su 'l bel verde piano:</l>
@@ -493,6 +493,10 @@
               <lb/><foreign xml:lang="DE">Erlkönigs Tochter</foreign>, La figliuola del re dei folletti.)
             </ab>
 
+            <ab rend="align(right) case(allcaps)" corresp="#art3_pag1_c1" facs="#p11_7" xml:id="art2_firma">
+              <lb/><persName xml:id="Carducci" role="autore" ref="https://it.wikipedia.org/wiki/Giosu%C3%A8_Carducci"><forename>Giosuè</forename> <surname>Carducci</surname></persName>
+            </ab>
+
             <bibl xml:id="Stimmen_der_Volker">
               <title level="s" type="collection"><foreign xml:lang="DE">Stimmen der Völker</foreign></title>
               <title level="a" type="main"><foreign xml:lang="DE">Erlkönigs Tochter</foreign></title>
@@ -501,10 +505,6 @@
             </bibl>
 
           </div>
-
-          <signed rend="align(right) case(allcaps)" corresp="#art3_pag1_c1">
-            <lb/><persName xml:id="Carducci" role="autore" ref="https://it.wikipedia.org/wiki/Giosu%C3%A8_Carducci"><forename>Giosuè</forename> <surname>Carducci</surname></persName>
-          </signed>
         </div>
 
         <!--Articolo 3-->
