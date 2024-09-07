@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- documento xml da validare -->
+<!-- 
+    file: esercizio-doc-da-validare
+    nome: Matteo Chiaramonte
+    data: 02/04/2024
+-->
+
+<!-- corpo del documento XML-->
+<elementoRadice>
+    <elementoFiglio>
+        <elementoAnnidato>
+        </elementoAnnidato>
+    </elementoFiglio>
+    <elementoFiglio>
+        <elementoAnnidato>
+            <elementoAnnidato>
+            </elementoAnnidato> <!-- Chiusura mancante di <elementoAnnidato> -->
+        </elementoAnnidato>
+        <elementoFiglio>
+            <childAggiunto>
+            </childAggiunto>
+        </elementoFiglio> <!-- Chiusura mancante di <elementoFiglio> -->
+        <siblingAggiunto>
+        </siblingAggiunto>
+        <elementoAnnidato>
+            <elementoFiglio>
+            </elementoFiglio> <!-- Chiusura corretta di <elementoFiglio> -->
+        </elementoAnnidato> <!-- Chiusura corretta di <elementoAnnidato> -->
+    </elementoFiglio>
+</elementoRadice>
+
+<!-- epilogo -->
